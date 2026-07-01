@@ -8,6 +8,7 @@ This repository contains my technical certifications related to Python, Data Ana
 
 - Complete 2026 Python Bootcamp: Learn Python from Scratch
 - Issued by: CodeWithHarry
+- https://github.com/Aaditya0615/Professional-Certificates/blob/main/Python_Certificate.pdf
 
 ### 🤖 SAP Code Unnati
 
